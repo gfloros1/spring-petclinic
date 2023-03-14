@@ -23,9 +23,9 @@ Student ID: 1865309
 
 #Docker Compose - App Server and MySQL
 - [5 pts] Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
-[Link to the docker-compose.yml file]()
+[Link to the docker-compose.yml file](https://github.com/gfloros1/spring-petclinic/blob/master/HW8/docker-compose.yml)
 - [5 pts] Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
-[Link to the application-mysql.properties file]()
+[Link to the application-mysql.properties file](https://github.com/gfloros1/spring-petclinic/blob/master/HW8/application-mysql.properties)
 - [5 pts] The output from the docker-compose up command.
 ![](Screenshots/BOTH3.PNG)
 - [5 pts] Your browser accessing the “Veterinarians” page of the website from your local container.
